@@ -20,12 +20,8 @@ title:datatypes
     If you inherit an abstract class you have to provide implementations to all the abstract methods in it.</p>
      ##Arrays
     <p>An array is a container object that holds a fixed number of values of a single type. The length of an array is established when the array is created. After creation, its length is fixed.</p>
-    <p>eclaring a Variable to Refer to an Array
+    <p>eclaring a Variable to Refer to an Array.
 
-The preceding program declares an array (named anArray) with the following line of code:
-
-// declares an array of integers
-int[] anArray;
 
 Like declarations for variables of other types, an array declaration has two components: the array's type and the array's name. An array's type is written as type[], where type is the data type of the contained elements; the brackets are special symbols indicating that this variable holds an array. The size of the array is not part of its type (which is why the brackets are empty). An array's name can be anything you want, provided that it follows the rules and conventions as previously discussed in the naming section. As with variables of other types, the declaration does not actually create an array; it simply tells the compiler that this variable will hold an array of the specified type.</p> 
 
